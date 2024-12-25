@@ -1,6 +1,6 @@
 ---
 
-title: all_in_one_summarizer
+title: all-in-one-summarizer
 emoji: 🖺
 colorFrom: purple
 colorTo: gray
