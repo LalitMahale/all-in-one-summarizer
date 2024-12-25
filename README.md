@@ -4,6 +4,6 @@ title: all-in-one-summarizer
 emoji: 🖺
 colorFrom: purple
 colorTo: gray
-sdk: docker
+sdk: streamlit
 app_port: 7860
 ---
